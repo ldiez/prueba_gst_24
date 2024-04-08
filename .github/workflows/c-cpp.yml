@@ -16,4 +16,4 @@ jobs:
     - name: build
       run: gcc main.c -o main
     - name: check
-      run: ./main
+      run: ./main 1
