@@ -1,13 +1,9 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-
-
-
-
 int main (int argc, char* argv[])
 {
-  
+  printf ("Hola mundo!!\n");
 
   if (argc != 2) {
     fprintf (stderr, "Incorrect number of parameters\n");
