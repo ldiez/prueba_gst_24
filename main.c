@@ -13,7 +13,7 @@ int main (int argc, char* argv[])
 
   int num = atoi(argv[1]);
 
-  fprintf (stdout, "             Hello   world with number %d!!!\n", num);
+  fprintf (stdout, "  Hello   world with number %d!!!\n", num);
 
   return 0;
 }
